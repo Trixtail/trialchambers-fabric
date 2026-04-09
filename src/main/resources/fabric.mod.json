@@ -17,17 +17,10 @@
 	"entrypoints": {
 		"main": [
 			"net.trixtail.trialchambers.CopperFreeTrialChambers"
-		],
-		"client": [
-			"net.trixtail.trialchambers.client.CopperFreeTrialChambersClient"
 		]
 	},
 	"mixins": [
-		"copper-free-trial-chambers.mixins.json",
-		{
-			"config": "copper-free-trial-chambers.client.mixins.json",
-			"environment": "client"
-		}
+		"copper-free-trial-chambers.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.18.6",
