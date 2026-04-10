@@ -10,4 +10,4 @@ pluginManagement {
 }
 
 // Should match your modid
-rootProject.name = 'copper-free-trial-chambers'
+rootProject.name = 'copperfreetrialchambers'
