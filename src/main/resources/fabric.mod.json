@@ -1,18 +1,18 @@
 {
 	"schemaVersion": 1,
-	"id": "copper-free-trial-chambers",
+	"id": "copperfreetrialchambers",
 	"version": "${version}",
 	"name": "Copper-Free Trial Chambers",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Removes copper blocks from Trial Chambers.",
 	"authors": [
-		"Me!"
+		"Trixtail"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
-	"icon": "assets/copper-free-trial-chambers/icon.png",
+	"license": "LGPL-3.0",
+	"icon": "assets/copperfreetrialchambers/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -20,7 +20,7 @@
 		]
 	},
 	"mixins": [
-		"copper-free-trial-chambers.mixins.json"
+		"copperfreetrialchambers.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.18.6",

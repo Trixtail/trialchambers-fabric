@@ -1,9 +1,14 @@
 # Copper-Free Trial Chambers
+_May contain Grated Copper_
 
-## Setup
+Changes the design of Trial Chambers to not utilise an absurd amount of copper blocks.
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+Also backports the 1.21.2 trial chamber changes to 1.21!
 
-## License
+Likely to be incompatible with any mods that change Trial Chamber generation.
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+### Modpack Use
+You are free to include this mod as part of a modpack as long as you credit me as the original author.
+
+### Support
+[Join our Discord](https://trixtail.com/discord) to get support and meet other community members!
